@@ -1,25 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8384034-2995-4f25-a283-978520e0ad3d" name="Changes" comment="" />
+    <list default="true" id="b8384034-2995-4f25-a283-978520e0ad3d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/Iterator/Iterator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/Iterator/Iterator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/chain/ChainOfResponsibility.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/chain/ChainOfResponsibility.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/command/Command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/command/Command.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/mediator/Mediator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/mediator/Mediator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/memento/MyVariant/Memento.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/memento/MyVariant/Memento.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/observer/Observer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/observer/Observer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/state/State.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/state/State.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/strategy/Strategy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/strategy/Strategy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/template/Template.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/template/Template.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/visitor/Visitor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/visitor/Visitor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/creational/factory/FactoryMethod.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/creational/factory/FactoryMethod.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2FWoOUBeheNIOPpJMtnsxHFmkTS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Petro/IdeaProjects/BasePatterns/src/com/ferros/basepatterns/creational/prototype/MyVariant&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ferros.basepatterns.structural.composite.GuruVariant" />
+      <recent name="com.ferros.basepatterns.structural.bridge.GuruVariant" />
+      <recent name="com.ferros.basepatterns.creational.builder.GuruVariant" />
+      <recent name="com.ferros.basepatterns.creational.abstractfactory.guruVariant" />
+      <recent name="com.ferros.basepatterns.creational.abstractfactory.myvariant" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Petro\IdeaProjects\BasePatterns\src\com\ferros\basepatterns\creational\prototype\MyVariant" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ferros.basepatterns.structural.flyweight.GuruVariant" />
+      <recent name="com.ferros.basepatterns.structural.facade.MyVariant" />
+      <recent name="com.ferros.basepatterns.structural.bridge.MyVariant" />
+      <recent name="com.ferros.basepatterns.creational.abstractfactory.myvariant.Yamaha" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.ferros.basepatterns.structural.proxy.GuruVariant.ProjectRunner">
+    <configuration name="AppRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ferros.basepatterns.structural.flyweight.MyVariant.AppRunner" />
+      <module name="BasePatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ferros.basepatterns.structural.flyweight.MyVariant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacadeShapeRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ferros.basepatterns.structural.facade.MyVariant.FacadeShapeRunner" />
+      <module name="BasePatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ferros.basepatterns.structural.facade.MyVariant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ferros.basepatterns.structural.flyweight.GuruVariant.ProjectRunner" />
+      <module name="BasePatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ferros.basepatterns.structural.flyweight.GuruVariant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SprintRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ferros.basepatterns.structural.facade.GuruVariant.SprintRunner" />
+      <module name="BasePatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ferros.basepatterns.structural.facade.GuruVariant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ferros.basepatterns.structural.proxy.GuruVariant.ProjectRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ferros.basepatterns.structural.proxy.GuruVariant.ProjectRunner" />
+      <module name="BasePatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ferros.basepatterns.structural.proxy.GuruVariant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.ferros.basepatterns.structural.proxy.GuruVariant.ProjectRunner" />
+        <item itemvalue="Application.ProjectRunner" />
+        <item itemvalue="Application.AppRunner" />
+        <item itemvalue="Application.FacadeShapeRunner" />
+        <item itemvalue="Application.SprintRunner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,5 +159,25 @@
       <updated>1664617168642</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BasePatterns$ProgramCreator.ic" NAME="ProgramCreator Coverage Results" MODIFIED="1664878552568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ferros.basepatterns.structural.bridge.GuruVariant.*</FILTER>
+    </SUITE>
   </component>
 </project>
