@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8384034-2995-4f25-a283-978520e0ad3d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/Iterator/Iterator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/Iterator/Iterator.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/chain/ChainOfResponsibility.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/chain/ChainOfResponsibility.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/command/Command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/command/Command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/mediator/Mediator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/mediator/Mediator.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/memento/MyVariant/Memento.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/memento/MyVariant/Memento.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/observer/Observer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/observer/Observer.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/state/State.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/state/State.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/strategy/Strategy.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/strategy/Strategy.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/template/Template.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/template/Template.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/visitor/Visitor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/behavioral/visitor/Visitor.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ferros/basepatterns/creational/factory/FactoryMethod.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ferros/basepatterns/creational/factory/FactoryMethod.txt" afterDir="false" />
+    <list default="true" id="b8384034-2995-4f25-a283-978520e0ad3d" name="Changes" comment="Second commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +147,28 @@
       <option name="presentableId" value="Default" />
       <updated>1664617168642</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1664906982705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664906982705</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Second commit">
+      <created>1664907167902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664907167902</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Second commit">
+      <created>1664907301635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664907301635</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +181,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
