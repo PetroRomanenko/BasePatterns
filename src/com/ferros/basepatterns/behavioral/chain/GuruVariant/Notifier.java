@@ -1,0 +1,27 @@
+package com.ferros.basepatterns.behavioral.chain.GuruVariant;
+
+public  abstract class Notifier {
+    private int priority;
+    private Notifier nextNotifier;
+
+    public Notifier(int priority){
+        this.priority=priority;
+    }
+
+    public void setNextNotifier(Notifier nextNotifier) {
+        this.nextNotifier = nextNotifier;
+
+
+    }
+
+    public void notifyManager(String massage, int level){
+        if(level>=priority){
+            write(massage);
+        }
+        if(nextNotifier!=null){
+            nextNotifier.notifyManager(massage,level);
+        }
+    }
+
+    public abstract void write(String message);
+}

@@ -1,0 +1,10 @@
+package com.ferros.basepatterns.behavioral.template.GuruVariant;
+
+public abstract class WebsiteTemplate {
+    public void showPage(){
+        System.out.println("Header");
+        showContent();
+        System.out.println("Footer");
+    }
+    public abstract void showContent();
+}

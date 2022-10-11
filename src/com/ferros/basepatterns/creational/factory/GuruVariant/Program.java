@@ -7,8 +7,6 @@ public class Program {
             Developer developer = developerFactory.createDeveloper();
 
             developer.writeCode();
-
-
     }
 
     static DeveloperFactory createDeveloperBySpecialty(String specialty){
